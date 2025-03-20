@@ -1,0 +1,46 @@
+{
+  "opinions": [
+    {
+      "id": 1741325956366,
+      "votes": 5,
+      "userName": "유지니",
+      "title": "진짜 다시 테스트",
+      "body": "이제는 제발 좀 되어라"
+    },
+    {
+      "id": 1741325871537,
+      "votes": 0,
+      "userName": "유지니",
+      "title": "아니 다시 다시",
+      "body": "다시 해보자 이젠 되겠지 "
+    },
+    {
+      "id": 1741325835137,
+      "votes": 0,
+      "userName": "유지니",
+      "title": "아무거나 제목",
+      "body": "아무거나 써서 이건 테스트용"
+    },
+    {
+      "id": 1741325385149,
+      "votes": 0,
+      "userName": "나다",
+      "title": "이게 바로 제목",
+      "body": "내 의견이 등록이 되는지 확인해야지"
+    },
+    {
+      "id": 1,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "Do yourself a favor and learn React!",
+      "body": "React is an amazing JavaScript library!\n\nDespite all it's shortcomings.",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "React has more depth than you might first think!",
+      "body": "React is a great library to learn, but it's not just about the basics. Dive deeper!\nFor example with this course!",
+      "votes": 0
+    }
+  ]
+}
